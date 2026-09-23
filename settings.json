@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vosousti.aternos.me:34450",
+    "ip": "vosousti.aternos.me",
     "port": 34450,
     "version": "",
     "try-creative": false
